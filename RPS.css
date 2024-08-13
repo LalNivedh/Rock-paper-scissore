@@ -1,0 +1,44 @@
+body{
+    
+    color:white;
+    font-family: Arial;
+    background-color: rgb(24, 2, 2);
+}
+.game{
+    font-size: 40px;
+    padding-left:70px;
+    font-weight: bold;
+}
+.main{
+    background-color: rgb(25, 25, 25);
+    height: 700px;
+    width:600px;
+    margin-left: 450px;
+    margin-bottom: 20px;    
+}
+.images{
+    height: 50px;
+}
+.RPSbutton{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 60px;
+    background-color: transparent;
+    border: 3px solid white;
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+.result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.score{
+    margin-top: 30px;
+}
+.reset{
+    font-size: 15px;
+    padding: 8px 12px;
+}
